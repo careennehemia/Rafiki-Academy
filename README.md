@@ -2,7 +2,7 @@
 
 An interactive SAT prep platform with AI-powered explanations that allows students to have deep, conversational learning experiences. Named after the wise mentor Rafiki, guiding students on their educational journey.
 
-## 🚀 Key Features
+## Key Features
 
 ### **Interactive Chatbot Explanations**
 - **Layered Learning**: Students can ask for deeper explanations repeatedly
@@ -22,7 +22,7 @@ An interactive SAT prep platform with AI-powered explanations that allows studen
 - **Custom Practice**: Filter by section, category, difficulty
 - **Progress Tracking**: Performance analytics and recommendations
 
-## 🎯 What Makes This Different
+## What Makes This Different
 
 Unlike traditional SAT apps that just show "Wrong. Here's the answer," our chatbot provides:
 
@@ -31,7 +31,7 @@ Unlike traditional SAT apps that just show "Wrong. Here's the answer," our chatb
 3. **Asks "What about this approach?"** → Alternative methods
 4. **Continues asking questions** → Deeper understanding
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React.js with Tailwind CSS
 - **Backend**: Node.js/Express with RESTful APIs
@@ -39,7 +39,7 @@ Unlike traditional SAT apps that just show "Wrong. Here's the answer," our chatb
 - **AI**: OpenAI GPT-4 for conversational explanations
 - **UI**: Modern, responsive design with Lucide icons
 
-## 📚 SAT Structure Covered
+##  SAT Structure Covered
 
 ### Reading & Writing (64 min, 54 questions)
 - **Craft & Structure** (28%): Main ideas, text structure, connections
@@ -53,7 +53,7 @@ Unlike traditional SAT apps that just show "Wrong. Here's the answer," our chatb
 - **Problem-Solving & Data Analysis** (15%): Ratios, percentages, statistics
 - **Geometry & Trigonometry** (15%): Area, volume, triangles, circles
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js (v14+)
@@ -93,7 +93,7 @@ npm run client
 
 5. **Open your browser**: http://localhost:3000
 
-## 💡 Usage Flow
+## Usage Flow
 
 1. **Browse Topics**: Explore all SAT categories and learning materials
 2. **Start Practice**: Choose questions by section, difficulty, or category
@@ -103,14 +103,14 @@ npm run client
 6. **Ask Follow-ups**: "Why is this wrong?", "Show me another way", etc.
 7. **Deep Learning**: Continue asking until you fully understand
 
-## 🎨 Sample Questions Included
+## Sample Questions Included
 
 - **Reading & Writing**: Main ideas, grammar, rhetorical analysis
 - **Math**: Linear equations, quadratics, geometry problems
 - **Multiple Difficulties**: Easy to hard across all topics
 - **Rich Explanations**: Basic, detailed, and expert-level explanations
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### Questions
 - `GET /api/questions` - Get filtered questions
@@ -126,16 +126,8 @@ npm run client
 - `GET /api/topics` - Get SAT topic structure
 - `POST /api/practice/generate` - Generate practice test
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - **Full Practice Tests**: Complete timed exams
 - **Performance Analytics**: Detailed progress tracking
 - **Adaptive Learning**: Personalized question recommendations
-
-## 🤝 Contributing
-
-Your Rafiki Academy is now running! The interactive chatbot system allows students to truly understand concepts rather than just memorize answers.
-
----
-
-**Built with ❤️ for better SAT preparation**
